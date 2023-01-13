@@ -1,0 +1,11 @@
+body {
+    background: url('imagens/fundo.png') repeat;
+}
+
+.titulo {
+    font-size: 22px;
+}
+
+.caixa-texto {
+    background: #FAF7E4
+}
